@@ -5,7 +5,7 @@ import os
 import websockets
 
 # Set up API key
-api_key = "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"  # Replace with your actual API key
+api_key = ""  # Replace with your actual API key
 os.environ["OPENAI_API_KEY"] = api_key
 
 
